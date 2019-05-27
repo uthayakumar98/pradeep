@@ -1,9 +1,9 @@
 def posorneg(n):
   if n>0:
-    return("Positive")
+    return Positive
   elif n<0:
-    return("Negative")
+    return Negative
   else:
-    return("Zero")
+    return Zero
 n=int(input())
 print(posorneg(n))
