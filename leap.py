@@ -1,6 +1,6 @@
-def le(ye)
+def le(ye):
   if ye%400==0 or ye%100!=0 anf ye%4==0:
-    print("Yes")
+    print("yes")
   else:
-    print("No")
+    print("no")
 le=int(input())
