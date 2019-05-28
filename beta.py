@@ -1,6 +1,6 @@
-u=input()
+p=input()
 a="abcdefghijklmnopqrstuvwxyz"
-if u in a:
+if p in a:
   print("Alphabet")
 else:
   print("No")
